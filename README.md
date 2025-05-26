@@ -13,7 +13,7 @@ Welcome to **Multiverse**, a creative Android app built using **Kotlin** that le
 ## 🖼️ App Screenshots
 
 ### Login Screen
-![Login]()
+![Login](https://github.com/SNH1221/Multiverse/blob/main/screenshots_multiverse/loginpage_multiverse.png?raw=true)
 
 ### Profile Screen
 ![Profile]()
